@@ -2,9 +2,7 @@
 
 ## MERN Stack Lab Activity
 
-A full-stack Student Notes CRUD application developed using the MERN stack as part of the Full-Stack Cloud Architectures lab activity.
-
-The application allows users to create, vie, and delete notes through a React frontend, Express REST API and MongoDB database.
+The application allows users to create, view and delete notes through a React frontend, Express REST API and MongoDB database.
 
 ---
 
