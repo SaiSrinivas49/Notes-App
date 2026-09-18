@@ -19,7 +19,7 @@ The application allows users to create, vie, and delete notes through a React fr
 
 ## GitHub Repository
 
-**GitHub:** 
+**GitHub:** https://github.com/SaiSrinivas49/Notes-App
 
 ---
 
@@ -100,7 +100,7 @@ npm --version
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/SaiSrinivas49/Notes-App
 cd notes-app
 ```
 
